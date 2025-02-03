@@ -92,8 +92,6 @@ Once the Geth node is running, you can deploy your dApps or interact with the bl
     }
     ```
 
----
-
 ## 🌍 **Network Configuration**
 
 - **Network ID**: 1310
