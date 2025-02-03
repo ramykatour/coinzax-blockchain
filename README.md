@@ -113,6 +113,8 @@ You can connect to the **COINZAX** network using your Ethereum wallet by adding 
   "blockExplorerUrls": ["https://scan.coinzax.com"]
 }
 
+```
+
 ## 📜 **API Documentation**
 
 The COINZAX blockchain exposes a JSON-RPC API, accessible through the RPC endpoint [https://rpc.coinzax.com](https://rpc.coinzax.com). The following methods are available:
