@@ -139,7 +139,7 @@ For more detailed API documentation, please refer to the [Ethereum JSON-RPC docu
 
 You can find the source code for the COINZAX blockchain on GitHub:
 
-- **GitHub Repo**: [https://github.com/ramykatour/coinzax](https://github.com/ramykatour/coinzax)
+- **GitHub Repo**: [https://github.com/ramykatour/coinzax](https://github.com/ramykatour/coinzax-blockchain.git)
 
 Feel free to contribute, raise issues, or submit pull requests to improve the COINZAX blockchain.
 
