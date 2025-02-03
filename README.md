@@ -114,3 +114,47 @@ You can connect to the **COINZAX** network using your Ethereum wallet by adding 
   },
   "blockExplorerUrls": ["https://scan.coinzax.com"]
 }
+
+## 📜 **API Documentation**
+
+The COINZAX blockchain exposes a JSON-RPC API, accessible through the RPC endpoint [https://rpc.coinzax.com](https://rpc.coinzax.com). The following methods are available:
+
+### `eth_blockNumber`
+Returns the number of the most recent block.
+
+### `eth_getBlockByNumber`
+Returns information about a block by block number.
+
+### `eth_getTransactionByHash`
+Returns the information about a transaction requested by transaction hash.
+
+### `eth_getBalance`
+Returns the balance of the account of the given address.
+
+For more detailed API documentation, please refer to the [Ethereum JSON-RPC documentation](https://eth.wiki/json-rpc/API).
+
+---
+
+## 📂 **GitHub Repository**
+
+You can find the source code for the COINZAX blockchain on GitHub:
+
+- **GitHub Repo**: [https://github.com/ramykatour/coinzax](https://github.com/ramykatour/coinzax)
+
+Feel free to contribute, raise issues, or submit pull requests to improve the COINZAX blockchain.
+
+---
+
+## ❓ **FAQ**
+
+### 1. **What is COINZAX?**
+COINZAX is a customized Ethereum-based blockchain designed to support high-performance decentralized applications (dApps) and transactions. It features its native token, **ZAX**, and is built to offer scalable solutions.
+
+### 2. **How do I interact with the COINZAX blockchain?**
+You can interact with the COINZAX blockchain through its RPC endpoint [https://rpc.coinzax.com](https://rpc.coinzax.com) using Web3.js or by connecting your Ethereum wallet (e.g., MetaMask).
+
+### 3. **How do I mine COINZAX?**
+You can mine COINZAX using Geth on the COINZAX private network. For more information, see the [Setup](#setup) section.
+
+### 4. **Where can I see transaction details?**
+You can explore the COINZAX blockchain using the [COINZAX Blockchain Explorer](https://scan.coinzax.com).
